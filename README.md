@@ -17,6 +17,8 @@ This is a simple list of controls to do when registrate or login an user in you 
 ## User login
 * Check for empty fields.
 * Check if the email is valid.
+* Data formatting:
+  - Lower case email.
 * Check if credentials are valid.
 * If credentials are valid:
   - Update database user last access.
