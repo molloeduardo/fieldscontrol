@@ -8,6 +8,7 @@ This is a simple list of controls to do when registrate or login an user in you 
 * Check if the password has numbers and special chars.
 * Check if the confirmation password matches.
 * Check if the inserted birth date has a valid pattern.
+* Check user age.
 * Check if the email already exists into the database.
 * Data formatting:
   - Capitalize first letter of name and surname and strlower the other letters.
