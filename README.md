@@ -1,5 +1,5 @@
 # Fields control
-This is a simple list of controls to do when registrate or login an user in you application or website.
+This is a simple list of controls that you have to do when you are developing a registration/login form in you application or website.
 
 ## User registration
 * Check for empty fields.
