@@ -9,7 +9,6 @@ This is a simple list of controls that you have to do when you are developing a 
 * Check if the confirmation password matches.
 * Check if the inserted birth date has a valid pattern.
 * Check user age.
-* Check if password hash is valid.
 * Check if data has the right length.
 * Check if the email already exists into the database.
 * Data formatting:
@@ -20,7 +19,6 @@ This is a simple list of controls that you have to do when you are developing a 
 ## User login
 * Check for empty fields.
 * Check if the email is valid.
-* Check if password hash is valid.
 * Check if email and password length is right.
 * Data formatting:
   - Lower case email.
