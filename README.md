@@ -22,7 +22,6 @@ This is a simple list of controls that you have to do when you are developing a 
 * Check if email and password length is right.
 * Data formatting:
   - Lower case email.
-* Check if data has the right length.
 * Check if credentials are valid.
 * If credentials are valid:
   - Update database user last access.
