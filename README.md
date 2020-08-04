@@ -3,6 +3,8 @@ This is a simple list of controls that you have to do when you are developing a 
 
 ## User registration
 * Check for empty fields.
+* Check for trim.
+* Check for double spaces.
 * Check if the email is valid.
 * Check for the password length.
 * Check if the password has numbers and special chars.
